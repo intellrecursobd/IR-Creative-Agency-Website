@@ -1,0 +1,1 @@
+ALTER TABLE `registrations` ADD `photo_requested` integer DEFAULT false NOT NULL;
